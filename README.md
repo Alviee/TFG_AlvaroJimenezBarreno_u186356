@@ -5,7 +5,8 @@ Contiene:
 - 2D_MODELS: Modelos STL de las piezas impresas.
 - AUTOCAD: Sketches de la cobertura del robot.
 - DESCRIPTION DISTANCE_SENSOR: Archivos .xacro de los sensores ultrasónicos.
-- ultrasonic_sensor: Paquete de ROS de los sensores ultrasónicos
-- MemoriaTFG_AlvaroJimenezBarreno_240903: Memoria del TFG
+- Multimedia: Imagenes creadas en mayor dimensión / alta resolución.
+- ultrasonic_sensor: Paquete de ROS de los sensores ultrasónicos.
+- MemoriaTFG_AlvaroJimenezBarreno_240903: Memoria del TFG.
 
 Autor: Álvaro Jiménez Barreno
